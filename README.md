@@ -30,21 +30,44 @@ The solution was designed to answer key business questions including:
 
 ## Dashboard Pages
 
-### 1. Operational Intelligence
+## Dashboard Pages
 
-Provides an executive overview of lead volume, qualification, booking conversion, follow-up dependency and operational performance.
+### Page 1 — Operational Intelligence
 
-### 2. AI Performance Summary
+The Operational Intelligence page provides an executive overview of lead and pipeline performance.
 
-Tracks performance over time, including lead volume, qualification rate and booking conversion trends.
+It combines core KPIs with outcome analysis and diagnostic insights to monitor lead qualification, booking conversion and follow-up dependency. The page is designed to highlight potential operational risks while giving decision-makers a concise view of current performance.
 
-### 3. Sales Funnel & Operational Actions
+![Operational Intelligence Dashboard](operational%20intelligence%20p1.png)
 
-Examines progression through the sales funnel and highlights operational next actions.
+---
 
-### 4. Revenue Intelligence
+### Page 2 — AI Performance Summary
 
-Provides a strategic view of pipeline health, revenue performance and opportunities for business improvement.
+The AI Performance Summary analyses how key performance indicators change over time and converts those results into a concise executive briefing.
+
+It monitors lead volume, qualification-rate trends, booking-conversion performance and lead-source activity, helping identify changes in performance that may require further investigation.
+
+![AI Performance Summary](AI%20Performance%20Summary%20p2.png)
+
+### Page 3 — Sales Funnel & Operational Next Actions
+
+This page focuses on pipeline progression and the operational actions influencing lead conversion.
+
+It analyses operational next actions, movement through the conversion funnel, lead-source performance and common objections. The AI Pipeline Assessment then summarises overall pipeline performance to support faster operational decision-making.
+
+![Sales Funnel and Operational Next Actions](sales%20funnel%20operational%20next%20action%20p3.png)
+---
+
+### Page 4 — Revenue Intelligence & Strategy
+
+The final page converts operational performance into an executive-level assessment of overall pipeline health and growth opportunities.
+
+It combines the Revenue Intelligence Score, Executive Rating, Pipeline Health Index, Strategic Growth Opportunity and AI Revenue Strategy to provide a concise strategic view of business performance.
+
+![Revenue Intelligence and Strategy](revenue%20intelligence.png)
+
+---
 
 ## Key Measures
 
@@ -57,17 +80,25 @@ The Power BI model includes measures for:
 - Qualification Rate
 - Booking Conversion Rate
 - Follow Up Dependency Rate
-- Pipeline Health
-- Revenue Performance
+- Pipeline Health Index
+- Revenue Intelligence Score
+- Follow-Up Risk Status
 
 ## Skills Demonstrated
 
 This project demonstrates practical experience in:
 
-- Transforming and preparing business data
-- Building data models and relationships
-- Developing DAX measures and KPIs
-- Designing interactive Power BI dashboards
-- Analysing operational and revenue performance
-- Identifying trends and performance issues
+- Power BI dashboard development
+- Power Query data transformation
+- DAX measures and KPI development
+- Data modelling and relationships
+- Business performance analysis
+- Interactive reporting
+- Data visualisation
+- Operational and pipeline analysis
+- Executive-level reporting
 - Translating data into actionable business insights
+
+## Project Development
+
+This project was developed as a business intelligence portfolio solution to demonstrate how operational lead data can be transformed into structured reporting, performance diagnostics and executive-level revenue intelligence.
